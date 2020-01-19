@@ -1,0 +1,11 @@
+{
+	"name": "Econsumer",
+	"version": "1.0",
+	"description": "Shop sustainably and do your part to change the ecological narrative",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_popup": "popup.html",
+		"default_icon": "Untitled.png"
+	},
+	"permissions": ["activeTab"]
+}
